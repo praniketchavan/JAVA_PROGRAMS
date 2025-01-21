@@ -1,2 +1,2 @@
 # JAVA_PROGRAMS
-All codes of java 
+All codes of Java .
